@@ -1,0 +1,14 @@
+## Syntax Coloring Map For PulseInZero ##
+
+##
+## Datatypes (KEYWORD1)
+PulseInZero   	KEYWORD1
+
+##
+## Instance Methods and Functions (KEYWORD2) ##
+begin	 				KEYWORD2
+abandon					KEYWORD2
+setup					KEYWORD2
+
+##
+## Const/Defs (LITERAL1)
